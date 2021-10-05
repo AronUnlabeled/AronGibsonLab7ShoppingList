@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.exe
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.deps.json
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.dll
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\ref\AronGibsonLab7ShoppingList.dll
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\bin\Debug\net5.0\AronGibsonLab7ShoppingList.pdb
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.dll
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\ref\AronGibsonLab7ShoppingList.dll
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.pdb
+C:\Users\aron\source\repos\AronGibsonLab7ShoppingList\AronGibsonLab7ShoppingList\obj\Debug\net5.0\AronGibsonLab7ShoppingList.genruntimeconfig.cache
